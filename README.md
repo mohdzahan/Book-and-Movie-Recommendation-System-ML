@@ -66,6 +66,15 @@ The Flask application provides a web interface for interacting with the recommen
 - index.html: Shows a list of popular books with their details.
 - recommend.html: Allows users to input a book name and view recommendations.
 
+##  Web App Interface
+<p align="center">
+  <img src="Main_UI.png" alt="Home Page" width="550" style="margin: 10px;"></p>
+<p align="center">
+  <img src="Search.png" alt="Recommend Page" width="550" style="margin: 10px;"></p>
+<p align="center">
+  <img src="Results.png" alt="Results Page" width="550" style="margin: 10px;">
+</p>
+
 ## How to Run
 
 1.	Ensure all required packages are installed.
